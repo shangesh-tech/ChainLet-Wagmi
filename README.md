@@ -1,4 +1,4 @@
-# ChainLet - Web3 Wallet (Wagmi Version )
+# ChainLet - Web3 Wallet (Wagmi Version)
 
 A comprehensive Web3 wallet application similar to MetaMask, featuring ERC-20 token support, faucet integration, and multi-account management.
 
